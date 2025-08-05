@@ -12,7 +12,7 @@
 
 ---
 
-### **Cloud Computing: Powering the Digital World** {#cloud-computing:-powering-the-digital-world}
+### **Cloud Computing: Powering the Digital World**
 
 Cloud computing is the technology that lets us access computing resources—like storage, servers, databases, and software—over the internet instead of relying on physical machines. It’s what makes it possible to run apps, stream content, and collaborate from anywhere in the world, anytime. Whether you're using Google Drive, watching Netflix, or working on a shared doc, you're already using the cloud.
 
