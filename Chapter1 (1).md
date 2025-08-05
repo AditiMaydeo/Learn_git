@@ -13,3 +13,4 @@ Database Management Systems (DBMS) are essential software tools that power most 
 - **Backup & Recovery**: Automates data backups and enables quick recovery during system failures.
 
 ## Types of Database Management Systems
+![DBMS Diagram](DB.png)
